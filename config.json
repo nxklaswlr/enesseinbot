@@ -11,5 +11,6 @@
     "status": "OG_Yusuf",
     "platform": "WIN",
     "debug": false,
-    "friendaccept": true
+    "friendaccept":false
 }
+            
